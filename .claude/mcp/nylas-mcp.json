@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "nylas-email": {
+      "command": "npx",
+      "args": ["-y", "@darinkishore/inbox-mcp"],
+      "env": {
+        "NYLAS_ACCESS_TOKEN": "${NYLAS_ACCESS_TOKEN}",
+        "NYLAS_GRANT_ID": "${NYLAS_GRANT_ID}"
+      }
+    }
+  }
+}

@@ -1,78 +1,111 @@
-# MCP Server Setup Guide for Gmail and Todoist
+# MCP Server Setup Guide for Nylas Email and Todoist
 
-This guide explains how to set up Gmail and Todoist MCP servers for use with Claude iOS app and Claude Desktop.
+This guide explains how to set up Nylas Email and Todoist MCP servers for use with Claude iOS app and Claude Desktop.
 
 ## 📋 Overview
 
 This repository includes two MCP server configurations:
 
-1. **Gmail MCP** (`gmail-mcp.json`) - Manage Gmail through natural language
+1. **Nylas Email MCP** (`nylas-mcp.json`) - Unified email management via Nylas (Gmail, Outlook, iCloud, Yahoo, IMAP)
 2. **Todoist MCP** (`todoist-mcp.json`) - Manage Todoist tasks and projects
 
 ## 🔧 Setup Instructions
 
-### 1. Gmail MCP Server Setup
+### 1. Nylas Email MCP Server Setup
 
-The Gmail MCP server uses `@gongrzhe/server-gmail-autoauth-mcp` with OAuth 2.0 authentication.
+The Nylas Email MCP server uses `@darinkishore/inbox-mcp` with Nylas API authentication. **Works with Gmail, Outlook, iCloud, Yahoo, and any IMAP email service!**
 
-#### Step 1: Google Cloud Console Setup
+#### Step 1: Create Nylas Account
 
-1. **Go to [Google Cloud Console](https://console.cloud.google.com/)**
-2. **Create a new project or select an existing one**
-3. **Enable Gmail API:**
-   - Navigate to "API & Services" → "Library"
-   - Search for "Gmail API" and click "Enable"
-4. **Create OAuth 2.0 Credentials:**
-   - Go to "API & Services" → "Credentials"
-   - Click "Create Credentials" → "OAuth 2.0 Client ID"
-   - Choose "Desktop app" as the application type
-   - Click "Create" and download the JSON credentials file
+1. **Go to [Nylas Dashboard](https://dashboard.nylas.com/)**
+2. **Sign up for a free account** (5 free connected email accounts included)
+3. **Create a new application** or use the default one
 
-#### Step 2: Local Configuration
+#### Step 2: Connect Your Email Account
 
-```bash
-# Create the Gmail MCP directory
-mkdir -p ~/.gmail-mcp
+1. **In the Nylas Dashboard**, go to the **Grants** section
+2. **Click "Add Grant"** to connect your email account
+3. **Choose your email provider:**
+   - Gmail, Google Workspace
+   - Outlook, Office 365
+   - iCloud
+   - Yahoo
+   - Custom IMAP
+4. **Follow the OAuth flow** to authorize Nylas to access your email
+5. **Note down your Grant ID** (shown in the Grants table after connection)
 
-# Rename and move your downloaded credentials
-mv ~/Downloads/client_secret_*.json ~/.gmail-mcp/gcp-oauth.keys.json
-```
+#### Step 3: Get Your API Credentials
 
-#### Step 3: Activate in Claude
+1. **In the Nylas Dashboard sidebar**, click **"API Keys"**
+2. **Copy your API Key** (keep this secure!)
+3. **You'll need two values:**
+   - `NYLAS_ACCESS_TOKEN` (your API key)
+   - `NYLAS_GRANT_ID` (from the Grants table)
+
+#### Step 4: Set Environment Variables
 
 **For Claude Desktop:**
 
-Copy the content of `gmail-mcp.json` to your Claude Desktop config file:
+Add the configuration from `nylas-mcp.json` to your Claude Desktop config, replacing the placeholders with your actual credentials:
 
-- **macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-- **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+```json
+{
+  "mcpServers": {
+    "nylas-email": {
+      "command": "npx",
+      "args": ["-y", "@darinkishore/inbox-mcp"],
+      "env": {
+        "NYLAS_ACCESS_TOKEN": "your_actual_api_key_here",
+        "NYLAS_GRANT_ID": "your_actual_grant_id_here"
+      }
+    }
+  }
+}
+```
 
 **For Claude iOS App:**
 
-The Gmail MCP server will be available when you use Claude Code on the iOS app with this repository.
+Set the environment variables in your development environment:
 
-#### Step 4: First-Time Authentication
+```bash
+# Add to your shell profile (~/.bashrc, ~/.zshrc, etc.)
+export NYLAS_ACCESS_TOKEN="your_api_key_here"
+export NYLAS_GRANT_ID="your_grant_id_here"
+```
 
-The first time you use Gmail features:
-1. Claude will prompt you to authenticate
-2. A browser window will open
-3. Sign in to your Google account
-4. Grant the requested permissions
-5. Authentication token will be saved automatically
+**Quick Installation (Alternative):**
 
-#### Gmail Capabilities
+Use the interactive installer:
+
+```bash
+npx -y @smithery/cli@latest install "@darinkishore/inbox-mcp" --client claude
+```
+
+This will prompt you for your credentials and configure automatically.
+
+#### Nylas Email Capabilities
 
 Once configured, you can ask Claude to:
-- Read and search emails
-- Send emails
-- Manage labels and filters
-- Archive and delete messages
-- Handle attachments
+- **Read and search emails** across all connected accounts
+- **Send emails** with attachments
+- **Batch-triage emails** with natural language
+- **Organize and filter** messages
+- **Archive and delete** emails
+- **Manage drafts** and replies
+
+**Supports multiple email providers:**
+- ✅ Gmail / Google Workspace
+- ✅ Outlook / Office 365
+- ✅ iCloud Mail
+- ✅ Yahoo Mail
+- ✅ Any IMAP service
 
 **Example prompts:**
 - "Show me my unread emails from today"
 - "Send an email to john@example.com about the meeting"
 - "Search for emails from Sarah containing 'project update'"
+- "Archive all emails from newsletters"
+- "Create a draft reply to the latest email from my boss"
 
 ---
 
@@ -156,7 +189,7 @@ When using Claude Code on the iOS app:
 
 **In Claude Desktop:**
 ```
-Tools → MCP Servers → Check status of gmail and todoist
+Tools → MCP Servers → Check status of nylas-email and todoist
 ```
 
 **In Claude conversation:**
@@ -164,13 +197,13 @@ Tools → MCP Servers → Check status of gmail and todoist
 "What tools do you have available?"
 ```
 
-Claude should list Gmail and Todoist tools if configured correctly.
+Claude should list Nylas Email and Todoist tools if configured correctly.
 
 ### Test Commands
 
-**Gmail Test:**
+**Nylas Email Test:**
 ```
-"List my Gmail tools"
+"List my email tools"
 "Show me my recent emails"
 ```
 
@@ -184,10 +217,11 @@ Claude should list Gmail and Todoist tools if configured correctly.
 
 ## 🔒 Security Notes
 
-### Gmail Security
-- **Never commit** `gcp-oauth.keys.json` to version control
-- The OAuth token is stored locally and encrypted
-- Revoke access anytime from [Google Account Settings](https://myaccount.google.com/permissions)
+### Nylas Security
+- **Never commit** your API credentials to version control
+- Store `NYLAS_ACCESS_TOKEN` and `NYLAS_GRANT_ID` as environment variables
+- Revoke access anytime from [Nylas Dashboard](https://dashboard.nylas.com/)
+- Free tier includes 5 connected accounts with secure OAuth
 
 ### Todoist Security
 - **Never commit** your API token to version control
@@ -195,25 +229,32 @@ Claude should list Gmail and Todoist tools if configured correctly.
 - Regenerate your token from Todoist settings if compromised
 
 ### Best Practices
-1. Add `gcp-oauth.keys.json` to `.gitignore`
-2. Use environment variables for sensitive data
-3. Regularly review authorized applications
-4. Use separate tokens for development and production
+1. Always use environment variables for sensitive data (never hardcode)
+2. Add `.env` files to `.gitignore`
+3. Regularly review authorized applications in Nylas Dashboard
+4. Use separate API keys for development and production
+5. Monitor API usage in Nylas Dashboard
 
 ---
 
 ## 🐛 Troubleshooting
 
-### Gmail Issues
+### Nylas Email Issues
 
-**Problem:** "Authentication failed"
-- **Solution:** Delete `~/.gmail-mcp/credentials.json` and re-authenticate
+**Problem:** "Invalid API credentials"
+- **Solution:** Verify your `NYLAS_ACCESS_TOKEN` and `NYLAS_GRANT_ID` in Nylas Dashboard
 
-**Problem:** "Gmail API not enabled"
-- **Solution:** Verify Gmail API is enabled in Google Cloud Console
+**Problem:** "Grant not found"
+- **Solution:** Check that your Grant ID is correct in the Nylas Dashboard → Grants section
 
-**Problem:** "Invalid credentials"
-- **Solution:** Re-download OAuth credentials from Google Cloud Console
+**Problem:** "Email account not connected"
+- **Solution:** Re-connect your email account in Nylas Dashboard → Grants → Add Grant
+
+**Problem:** "Rate limit exceeded"
+- **Solution:** Check your API usage in Nylas Dashboard; free tier has limits
+
+**Problem:** "Authentication expired"
+- **Solution:** Reconnect your email account in Nylas Dashboard (OAuth tokens may expire)
 
 ### Todoist Issues
 
@@ -242,24 +283,27 @@ Claude should list Gmail and Todoist tools if configured correctly.
 ## 📚 Resources
 
 ### Documentation Links
-- [Gmail MCP Server (GongRzhe)](https://github.com/GongRzhe/Gmail-MCP-Server)
+- [Inbox-MCP (Nylas Email)](https://github.com/darinkishore/Inbox-MCP)
+- [Official Nylas API MCP](https://github.com/nylas-samples/nylas-api-mcp)
 - [Todoist MCP Server (@hoffination)](https://www.npmjs.com/package/@hoffination/mcp-todoist)
 - [Model Context Protocol Docs](https://modelcontextprotocol.io/)
 - [Claude Code MCP Guide](https://code.claude.com/docs/en/mcp)
 
 ### API Documentation
-- [Gmail API](https://developers.google.com/gmail/api)
+- [Nylas API Documentation](https://developer.nylas.com/)
+- [Nylas Dashboard](https://dashboard.nylas.com/)
 - [Todoist API](https://developer.todoist.com/rest/v2/)
 
 ---
 
 ## 🎯 Next Steps
 
-1. ✅ **Configure Gmail MCP** following steps above
+1. ✅ **Configure Nylas Email MCP** following steps above
 2. ✅ **Configure Todoist MCP** following steps above
-3. ✅ **Test both integrations** with sample commands
-4. ✅ **Explore capabilities** by asking Claude what it can do
-5. ✅ **Integrate into your workflow** for productivity boost
+3. ✅ **Connect your email accounts** via Nylas Dashboard (Gmail, Outlook, iCloud, etc.)
+4. ✅ **Test both integrations** with sample commands
+5. ✅ **Explore capabilities** by asking Claude what it can do
+6. ✅ **Integrate into your workflow** for productivity boost
 
 ---
 
