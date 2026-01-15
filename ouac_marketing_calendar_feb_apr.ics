@@ -1,0 +1,389 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OUAC Marketing//Marketing Events Calendar Feb-Apr//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OUAC Marketing Feb-Apr
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Marketing events and tasks for OUAC campaigns (Feb-Apr 2026)
+BEGIN:VEVENT
+UID:13eb8724-8695-4348-bf2b-896ccbf7a64d
+DTSTAMP:20260115T091025Z
+DTSTART:20260209T000000Z
+SUMMARY:Facebook Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4a7fb829-4b64-493b-addf-fbddfaa20273
+DTSTAMP:20260115T091025Z
+DTSTART:20260209T000000Z
+SUMMARY:Facebook Story: Teaser story (Event preview)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9db0f9-7b59-495b-a13f-e3067f16b389
+DTSTAMP:20260115T091025Z
+DTSTART:20260209T000000Z
+SUMMARY:Instagram Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef821da-f4f2-4f8e-893e-df1ead4abe0f
+DTSTAMP:20260115T091025Z
+DTSTART:20260209T000000Z
+SUMMARY:Instagram Story: Teaser story (Event preview)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac05c92-13b4-4f5b-91c4-199efedeaaea
+DTSTAMP:20260115T091025Z
+DTSTART:20260210T000000Z
+SUMMARY:Facebook Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2d38fb-f77a-4244-b2a2-d3c66579ad81
+DTSTAMP:20260115T091025Z
+DTSTART:20260210T000000Z
+SUMMARY:Instagram Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0fbfac-acae-4b8d-94b7-e293573fd3c2
+DTSTAMP:20260115T091025Z
+DTSTART:20260210T000000Z
+SUMMARY:Paid Ads: Update/refresh Always-On Buy Ad creative (weekly)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Paid Ads\\nAsset: Update/refresh Always-On Buy Ad creative (weekly)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f94df65d-a66e-4a16-bca5-e8a5ca8aeec8
+DTSTAMP:20260115T091025Z
+DTSTART:20260211T000000Z
+SUMMARY:Email Blast: Email #1: Event details + Buy focus
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Email Blast\\nAsset: Email #1: Event details + Buy focus\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:003a7e05-ebac-4497-bb1c-663547659c94
+DTSTAMP:20260115T091025Z
+DTSTART:20260211T000000Z
+SUMMARY:Facebook Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:877b19b6-997b-4231-84ee-1ca83248cfe9
+DTSTAMP:20260115T091025Z
+DTSTART:20260211T000000Z
+SUMMARY:Facebook Story: Countdown/preview story
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:781b5968-b49c-414a-9075-935251fccf57
+DTSTAMP:20260115T091025Z
+DTSTART:20260211T000000Z
+SUMMARY:Instagram Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:37e2842c-e6ff-4dee-97fc-324cbd0472ae
+DTSTAMP:20260115T091025Z
+DTSTART:20260211T000000Z
+SUMMARY:Instagram Story: Countdown/preview story
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e5d782c-3c81-4877-8076-81b71f6df120
+DTSTAMP:20260115T091025Z
+DTSTART:20260212T000000Z
+SUMMARY:Facebook Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c63a990b-7a5e-4745-b50c-00c013ef83c8
+DTSTAMP:20260115T091025Z
+DTSTART:20260212T000000Z
+SUMMARY:Instagram Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d5126cfd-2773-43c4-99c0-fbd09fffd7c6
+DTSTAMP:20260115T091025Z
+DTSTART:20260212T000000Z
+SUMMARY:Paid Ads: Launch Event Ad Flight (traffic/reach) – start
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Paid Ads\\nAsset: Launch Event Ad Flight (traffic/reach) – start\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e52797-6f94-4373-8d6d-13906243974f
+DTSTAMP:20260115T091025Z
+DTSTART:20260212T000000Z
+SUMMARY:Text Message: Text #2: Weekend reminder (Event starts soon)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Text Message\\nAsset: Text #2: Weekend reminder (Event starts soon)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Text Message
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:07056252-eab4-456c-8d58-8ffd12ae027f
+DTSTAMP:20260115T091025Z
+DTSTART:20260213T000000Z
+SUMMARY:Email Blast: Email #2: Weekend kickoff / New arrivals highlight
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Email Blast\\nAsset: Email #2: Weekend kickoff / New arrivals highlight\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e594387f-3f73-46f6-805a-cb276eb40a90
+DTSTAMP:20260115T091025Z
+DTSTART:20260213T000000Z
+SUMMARY:Facebook Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0839fdd2-77cb-4a9d-b55e-a5ea07f23dc9
+DTSTAMP:20260115T091025Z
+DTSTART:20260213T000000Z
+SUMMARY:Facebook Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:79c1a94e-3bd6-4394-acbd-2c77b078ed89
+DTSTAMP:20260115T091025Z
+DTSTART:20260213T000000Z
+SUMMARY:Instagram Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9374cb69-9140-48f9-b267-0b79c5155e7b
+DTSTAMP:20260115T091025Z
+DTSTART:20260213T000000Z
+SUMMARY:Instagram Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d044f828-836f-4118-9810-31787e7a7541
+DTSTAMP:20260115T091025Z
+DTSTART:20260214T000000Z
+SUMMARY:Facebook Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4330868a-286d-42dd-b046-be59e6dd14df
+DTSTAMP:20260115T091025Z
+DTSTART:20260214T000000Z
+SUMMARY:Facebook Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38025348-4768-4d1f-9f56-8c2aa9714473
+DTSTAMP:20260115T091025Z
+DTSTART:20260214T000000Z
+SUMMARY:Instagram Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb64f487-62d0-4f43-98b7-52fc1553564d
+DTSTAMP:20260115T091025Z
+DTSTART:20260214T000000Z
+SUMMARY:Instagram Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71567d7c-b66a-47fb-8913-ed32f5675196
+DTSTAMP:20260115T091025Z
+DTSTART:20260216T000000Z
+SUMMARY:Facebook Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38587e86-ccae-4c9f-9253-86eb8438494b
+DTSTAMP:20260115T091025Z
+DTSTART:20260216T000000Z
+SUMMARY:Facebook Story: Last chance story (Final hours)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Facebook Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe075efc-6e7d-4ecd-a62c-b09f49ca707c
+DTSTAMP:20260115T091025Z
+DTSTART:20260216T000000Z
+SUMMARY:Instagram Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e23a63-8b55-4d0d-8f8f-6a6aa767f003
+DTSTAMP:20260115T091025Z
+DTSTART:20260216T000000Z
+SUMMARY:Instagram Story: Last chance story (Final hours)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Instagram Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac6cd61-a19f-4955-832d-de33bbef4c0c
+DTSTAMP:20260115T091025Z
+DTSTART:20260216T000000Z
+SUMMARY:Paid Ads: Event Ad Flight – end
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Paid Ads\\nAsset: Event Ad Flight – end\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19142313-d91f-4cd2-a86a-97da3a7ccedf
+DTSTAMP:20260115T091025Z
+DTSTART:20260216T000000Z
+SUMMARY:Text Message: Extra Text #2: Final Day reminder (paid overage)
+DESCRIPTION:Event: Presidents Day / Family Weekend\\nType: Sale\\nBuy Focus: Youth Activewear + Sports\\nChannel: Text Message\\nAsset: Extra Text #2: Final Day reminder (paid overage)\\nNotes: Paid extra text ($35): use only if inventory supports\\n\\nEvent Period: 2026-02-13 to 2026-02-16
+CATEGORIES:OUAC Marketing,Sale,Text Message
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e54c0068-946a-48d4-aaf2-daae70da7f27
+DTSTAMP:20260115T091025Z
+DTSTART:20260428T000000Z
+SUMMARY:Paid Ads: Weekly check + refresh Always-On Buy Ad (no event flight)
+DESCRIPTION:Event: Always-On: Buy Counter + New Arrivals\\nType: Always-On\\nBuy Focus: Summer apparel + Shoes + Toys\\nChannel: Paid Ads\\nAsset: Weekly check + refresh Always-On Buy Ad (no event flight)\\n
+CATEGORIES:OUAC Marketing,Always-On,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:46269805-5d53-4d7b-8fd2-419fae95f00c
+DTSTAMP:20260115T091025Z
+DTSTART:20260429T000000Z
+SUMMARY:Email Blast: Weekly email: New arrivals + Buy focus (May preview)
+DESCRIPTION:Event: Always-On: Buy Counter + New Arrivals\\nType: Always-On\\nBuy Focus: Summer apparel + Shoes + Toys\\nChannel: Email Blast\\nAsset: Weekly email: New arrivals + Buy focus (May preview)\\n
+CATEGORIES:OUAC Marketing,Always-On,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d47e6be3-3399-41a5-9367-ac2738e377e2
+DTSTAMP:20260115T091025Z
+DTSTART:20260429T000000Z
+SUMMARY:Facebook Feed Post: New arrivals collage + Buy focus
+DESCRIPTION:Event: Always-On: Buy Counter + New Arrivals\\nType: Always-On\\nBuy Focus: Summer apparel + Shoes + Toys\\nChannel: Facebook Feed Post\\nAsset: New arrivals collage + Buy focus\\n
+CATEGORIES:OUAC Marketing,Always-On,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70fa6436-d341-4b89-89b2-1d458e85d659
+DTSTAMP:20260115T091025Z
+DTSTART:20260429T000000Z
+SUMMARY:Instagram Feed Post: New arrivals collage + Buy focus
+DESCRIPTION:Event: Always-On: Buy Counter + New Arrivals\\nType: Always-On\\nBuy Focus: Summer apparel + Shoes + Toys\\nChannel: Instagram Feed Post\\nAsset: New arrivals collage + Buy focus\\n
+CATEGORIES:OUAC Marketing,Always-On,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62f5fba9-fc8f-4d62-b87e-d44c5d7ab9c5
+DTSTAMP:20260115T091025Z
+DTSTART:20260430T000000Z
+SUMMARY:Facebook Story: Behind-the-scenes: restock + buy counter
+DESCRIPTION:Event: Always-On: Buy Counter + New Arrivals\\nType: Always-On\\nBuy Focus: Summer apparel + Shoes + Toys\\nChannel: Facebook Story\\nAsset: Behind-the-scenes: restock + buy counter\\n
+CATEGORIES:OUAC Marketing,Always-On,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:04a4ef3e-1880-4433-8bbf-e500d17d1c23
+DTSTAMP:20260115T091025Z
+DTSTART:20260430T000000Z
+SUMMARY:Instagram Story: Behind-the-scenes: restock + buy counter
+DESCRIPTION:Event: Always-On: Buy Counter + New Arrivals\\nType: Always-On\\nBuy Focus: Summer apparel + Shoes + Toys\\nChannel: Instagram Story\\nAsset: Behind-the-scenes: restock + buy counter\\n
+CATEGORIES:OUAC Marketing,Always-On,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c50ae9b-2a03-49d3-acb9-73ee4f7dce4a
+DTSTAMP:20260115T091025Z
+DTSTART:20260430T000000Z
+SUMMARY:Paid Ads: Optimize Always-On Buy Ad + retargeting audiences
+DESCRIPTION:Event: Always-On: Buy Counter + New Arrivals\\nType: Always-On\\nBuy Focus: Summer apparel + Shoes + Toys\\nChannel: Paid Ads\\nAsset: Optimize Always-On Buy Ad + retargeting audiences\\n
+CATEGORIES:OUAC Marketing,Always-On,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
