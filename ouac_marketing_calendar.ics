@@ -1,0 +1,1329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OUAC Marketing//Marketing Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OUAC Marketing
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Marketing events and tasks for OUAC campaigns
+BEGIN:VEVENT
+UID:e9aa1763-c9f8-44b6-9e78-9bfd51d4f5d1
+DTSTAMP:20260115T084558Z
+DTSTART:20260112T000000Z
+SUMMARY:Facebook Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fda174a5-25b9-4ca3-9282-8f335137664e
+DTSTAMP:20260115T084558Z
+DTSTART:20260112T000000Z
+SUMMARY:Facebook Story: Teaser story (Event preview)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61a2832f-4fd9-4ffd-beef-ab8470b66706
+DTSTAMP:20260115T084558Z
+DTSTART:20260112T000000Z
+SUMMARY:Instagram Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:129634e5-aff0-45a9-8200-8e76bd9026e8
+DTSTAMP:20260115T084558Z
+DTSTART:20260112T000000Z
+SUMMARY:Instagram Story: Teaser story (Event preview)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4860899-019e-4d25-b0a7-6877533d0b94
+DTSTAMP:20260115T084558Z
+DTSTART:20260113T000000Z
+SUMMARY:Facebook Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab8deba-3739-4d2b-b892-f6924256a112
+DTSTAMP:20260115T084558Z
+DTSTART:20260113T000000Z
+SUMMARY:Instagram Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76235ed7-1683-418a-b126-f989d4ae04de
+DTSTAMP:20260115T084558Z
+DTSTART:20260113T000000Z
+SUMMARY:Paid Ads: Update/refresh Always-On Buy Ad creative (weekly)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Paid Ads\\nAsset: Update/refresh Always-On Buy Ad creative (weekly)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c35a8bff-62fd-4ec9-94af-1e71d1e3679a
+DTSTAMP:20260115T084558Z
+DTSTART:20260114T000000Z
+SUMMARY:Email Blast: Email #1: Event details + Buy focus
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Email Blast\\nAsset: Email #1: Event details + Buy focus\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f68c582-d66e-4b84-9cc6-d7ae513f3051
+DTSTAMP:20260115T084558Z
+DTSTART:20260114T000000Z
+SUMMARY:Facebook Feed Post: Event details post (What/When)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bacbf319-2c7d-455c-b680-ae806b9e1782
+DTSTAMP:20260115T084558Z
+DTSTART:20260114T000000Z
+SUMMARY:Facebook Story: Countdown/preview story
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2870551f-c9cb-4399-bc7d-c219ad083ee1
+DTSTAMP:20260115T084558Z
+DTSTART:20260114T000000Z
+SUMMARY:Instagram Feed Post: Event details post (What/When)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:98287b05-dc63-4004-86e5-7bac7becb8eb
+DTSTAMP:20260115T084558Z
+DTSTART:20260114T000000Z
+SUMMARY:Instagram Story: Countdown/preview story
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:53d3d805-7b02-4e1b-8c17-859d07aacc31
+DTSTAMP:20260115T084558Z
+DTSTART:20260115T000000Z
+SUMMARY:Facebook Story: Reminder story + countdown sticker
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73a2cd56-ec08-4f6b-b351-3bb14c0d8424
+DTSTAMP:20260115T084558Z
+DTSTART:20260115T000000Z
+SUMMARY:Instagram Story: Reminder story + countdown sticker
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d95f6db1-29b8-4f37-8a6c-565b46cd76c1
+DTSTAMP:20260115T084558Z
+DTSTART:20260115T000000Z
+SUMMARY:Paid Ads: Launch Event Ad Flight (traffic/reach) – start
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Paid Ads\\nAsset: Launch Event Ad Flight (traffic/reach) – start\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0a84d7-19f6-40ec-a7e5-f700d3b3e461
+DTSTAMP:20260115T084558Z
+DTSTART:20260115T000000Z
+SUMMARY:Text Message: Text #2: Weekend reminder (Event starts soon)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Text Message\\nAsset: Text #2: Weekend reminder (Event starts soon)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Text Message
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:175e695a-5764-4d23-b5e0-b6a7a3c4ae99
+DTSTAMP:20260115T084558Z
+DTSTART:20260116T000000Z
+SUMMARY:Email Blast: Email #2: Weekend kickoff / New arrivals highlight
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Email Blast\\nAsset: Email #2: Weekend kickoff / New arrivals highlight\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a692fb0-26f8-49b8-be17-b3fa60e5a7f8
+DTSTAMP:20260115T084558Z
+DTSTART:20260116T000000Z
+SUMMARY:Facebook Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:50ffe5d1-cc2d-4efd-a810-8322a0920b44
+DTSTAMP:20260115T084558Z
+DTSTART:20260116T000000Z
+SUMMARY:Facebook Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5e64e5-ead0-4b36-9eb4-abf20f2fae12
+DTSTAMP:20260115T084558Z
+DTSTART:20260116T000000Z
+SUMMARY:Instagram Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e443edf8-b858-4cd5-a5e6-608ec5f56b6b
+DTSTAMP:20260115T084558Z
+DTSTART:20260116T000000Z
+SUMMARY:Instagram Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e86411-1126-471b-b2a9-da201a0ebb96
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Facebook Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14b3959b-5774-472e-b6a6-2f9479ed8fd9
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Facebook Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1917ac20-51fb-44eb-9be3-0020900dff89
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Facebook Story: Last chance story (Final hours)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:632b14b8-7760-4c26-bab5-5d8ffbb609d4
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Facebook Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4186d84f-afa6-442d-af31-bbdedb788e3a
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Instagram Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a94082-4bcf-4d44-8604-adfa2b143b57
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Instagram Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be51a2fb-94d4-44cc-8205-fb94fdec7914
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Instagram Story: Last chance story (Final hours)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:076b1f46-c51a-45c9-b326-00b3bee04001
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Instagram Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c0c7a0-4999-49f9-8197-a4567d7155f1
+DTSTAMP:20260115T084558Z
+DTSTART:20260117T000000Z
+SUMMARY:Paid Ads: Event Ad Flight – end
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Paid Ads\\nAsset: Event Ad Flight – end\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:942cbe99-a76f-4d2c-9059-831d1c44b9f1
+DTSTAMP:20260115T084558Z
+DTSTART:20260118T000000Z
+SUMMARY:Email Blast: Optional: Post-event thank you + buy call (only if needed)
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Email Blast\\nAsset: Optional: Post-event thank you + buy call (only if needed)\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd14006-3c38-4d46-b39b-0023b1ab4546
+DTSTAMP:20260115T084558Z
+DTSTART:20260118T000000Z
+SUMMARY:Facebook Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Facebook Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:002d3d48-e2ca-4fc1-9787-442379795ece
+DTSTAMP:20260115T084558Z
+DTSTART:20260118T000000Z
+SUMMARY:Instagram Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: 20 Bodysuits for $10\\nType: Sale\\nBuy Focus: Shoes & Accessories (understock)\\nChannel: Instagram Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-01-16 to 2026-01-17
+CATEGORIES:OUAC Marketing,Sale,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0efb9781-e551-4061-b305-bbc45bc3aef4
+DTSTAMP:20260115T084558Z
+DTSTART:20260119T000000Z
+SUMMARY:Facebook Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd9defc7-b2fe-453e-8e6c-0bfc91841797
+DTSTAMP:20260115T084558Z
+DTSTART:20260119T000000Z
+SUMMARY:Facebook Story: Teaser story (Event preview)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff45903-9e43-437d-ac4c-a7049730db99
+DTSTAMP:20260115T084558Z
+DTSTART:20260119T000000Z
+SUMMARY:Instagram Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aec5c99b-38a9-4c2f-91bf-343885869f8d
+DTSTAMP:20260115T084558Z
+DTSTART:20260119T000000Z
+SUMMARY:Instagram Story: Teaser story (Event preview)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d42b88-2440-4b8f-ac11-bac6b23094ae
+DTSTAMP:20260115T084558Z
+DTSTART:20260120T000000Z
+SUMMARY:Facebook Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:43b79f4f-6e30-4993-9eb8-916a82416281
+DTSTAMP:20260115T084558Z
+DTSTART:20260120T000000Z
+SUMMARY:Instagram Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:510bfa14-d4ff-456a-a8aa-226fa62c3372
+DTSTAMP:20260115T084558Z
+DTSTART:20260120T000000Z
+SUMMARY:Paid Ads: Update/refresh Always-On Buy Ad creative (weekly)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Paid Ads\\nAsset: Update/refresh Always-On Buy Ad creative (weekly)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd1b0d8-b6fc-443b-9623-2f8aa4a85c81
+DTSTAMP:20260115T084558Z
+DTSTART:20260121T000000Z
+SUMMARY:Email Blast: Email #1: Event details + Buy focus
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Email Blast\\nAsset: Email #1: Event details + Buy focus\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:373839e9-c450-474a-9ece-f7e9adb2cf71
+DTSTAMP:20260115T084558Z
+DTSTART:20260121T000000Z
+SUMMARY:Facebook Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bda0708f-ce82-4167-80c5-fa39e0059b5b
+DTSTAMP:20260115T084558Z
+DTSTART:20260121T000000Z
+SUMMARY:Facebook Story: Countdown/preview story
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae7bb2bf-84f0-43a3-92f9-121355049450
+DTSTAMP:20260115T084558Z
+DTSTART:20260121T000000Z
+SUMMARY:Instagram Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1381727-ffb2-4f5d-a2d7-9caf05dc3c8a
+DTSTAMP:20260115T084558Z
+DTSTART:20260121T000000Z
+SUMMARY:Instagram Story: Countdown/preview story
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc2b9af-40de-4a22-a355-37b50b187b7f
+DTSTAMP:20260115T084558Z
+DTSTART:20260122T000000Z
+SUMMARY:Facebook Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f737e88-4296-4db6-b22e-561899fa580b
+DTSTAMP:20260115T084558Z
+DTSTART:20260122T000000Z
+SUMMARY:Instagram Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d6ccc6-5e58-4602-bf15-fbaa1d23fba9
+DTSTAMP:20260115T084558Z
+DTSTART:20260122T000000Z
+SUMMARY:Paid Ads: Launch Event Ad Flight (traffic/reach) – start
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Paid Ads\\nAsset: Launch Event Ad Flight (traffic/reach) – start\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b84e45d9-bdb6-446f-a064-7e188c674ee3
+DTSTAMP:20260115T084558Z
+DTSTART:20260122T000000Z
+SUMMARY:Text Message: Text #2: Weekend reminder (Event starts soon)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Text Message\\nAsset: Text #2: Weekend reminder (Event starts soon)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Text Message
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea7be8f-2deb-45f8-aff8-e336f7198ece
+DTSTAMP:20260115T084558Z
+DTSTART:20260123T000000Z
+SUMMARY:Email Blast: Email #2: Weekend kickoff / New arrivals highlight
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Email Blast\\nAsset: Email #2: Weekend kickoff / New arrivals highlight\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:87e4f558-3519-41ec-9959-fd5d0a7e83a1
+DTSTAMP:20260115T084558Z
+DTSTART:20260123T000000Z
+SUMMARY:Facebook Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf3d649c-6314-492e-9b4c-80c3bcd27f3a
+DTSTAMP:20260115T084558Z
+DTSTART:20260123T000000Z
+SUMMARY:Facebook Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:845dd337-726c-4af7-ab2b-aced1216057c
+DTSTAMP:20260115T084558Z
+DTSTART:20260123T000000Z
+SUMMARY:Instagram Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20180321-14a5-4690-81fc-39a3347d385c
+DTSTAMP:20260115T084558Z
+DTSTART:20260123T000000Z
+SUMMARY:Instagram Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e8eb21a-5579-45f9-ab81-c469f938df82
+DTSTAMP:20260115T084558Z
+DTSTART:20260124T000000Z
+SUMMARY:Facebook Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:072df7ee-7a01-4fcc-8140-2d1eb5506cac
+DTSTAMP:20260115T084558Z
+DTSTART:20260124T000000Z
+SUMMARY:Facebook Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb89568b-5f60-4ec8-8bf1-d9a8cc4a269d
+DTSTAMP:20260115T084558Z
+DTSTART:20260124T000000Z
+SUMMARY:Instagram Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4921ff82-53e4-4a26-8152-923da0197bb5
+DTSTAMP:20260115T084558Z
+DTSTART:20260124T000000Z
+SUMMARY:Instagram Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1564cd2b-33a1-4c31-809b-1e6aac0ce51d
+DTSTAMP:20260115T084558Z
+DTSTART:20260125T000000Z
+SUMMARY:Facebook Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7cffef3a-dd1b-4f06-a686-7fb3d62e538f
+DTSTAMP:20260115T084558Z
+DTSTART:20260125T000000Z
+SUMMARY:Facebook Story: Last chance story (Final hours)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd3e587-59cd-466b-9af4-0fb6fd2f0e1d
+DTSTAMP:20260115T084558Z
+DTSTART:20260125T000000Z
+SUMMARY:Instagram Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6268ec0-50fa-447f-8348-37d32d717e79
+DTSTAMP:20260115T084558Z
+DTSTART:20260125T000000Z
+SUMMARY:Instagram Story: Last chance story (Final hours)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d0435127-f7f0-4b56-81c0-284141d6f851
+DTSTAMP:20260115T084558Z
+DTSTART:20260125T000000Z
+SUMMARY:Paid Ads: Event Ad Flight – end
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Paid Ads\\nAsset: Event Ad Flight – end\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc04fd8a-e56a-4169-864a-1e5830aac61b
+DTSTAMP:20260115T084558Z
+DTSTART:20260126T000000Z
+SUMMARY:Facebook Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0359f220-26dc-4421-b052-ef3c37c54d3a
+DTSTAMP:20260115T084558Z
+DTSTART:20260126T000000Z
+SUMMARY:Facebook Story: Teaser story (Event preview)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c43d0cdd-d388-4b75-a191-e47c7991cb09
+DTSTAMP:20260115T084558Z
+DTSTART:20260126T000000Z
+SUMMARY:Instagram Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b6b7c50-7272-478b-8084-8f351ce3b7f9
+DTSTAMP:20260115T084558Z
+DTSTART:20260126T000000Z
+SUMMARY:Instagram Story: Teaser story (Event preview)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:032e697c-e421-477a-adbc-8aa496c7c5da
+DTSTAMP:20260115T084558Z
+DTSTART:20260126T000000Z
+SUMMARY:Email Blast: Optional: Post-event thank you + buy call (only if needed)
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Email Blast\\nAsset: Optional: Post-event thank you + buy call (only if needed)\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:177dbf6a-c86d-4988-93e5-fd6368a0ae3c
+DTSTAMP:20260115T084558Z
+DTSTART:20260126T000000Z
+SUMMARY:Facebook Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Facebook Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aadd5289-e585-4e68-aac2-e7853e440724
+DTSTAMP:20260115T084558Z
+DTSTART:20260126T000000Z
+SUMMARY:Instagram Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: Winter Clearance Weekend\\nType: Clearance\\nBuy Focus: Toys & Books (understock)\\nChannel: Instagram Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-01-23 to 2026-01-25
+CATEGORIES:OUAC Marketing,Clearance,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1935efff-6813-4a35-9203-5d2fbc510f96
+DTSTAMP:20260115T084558Z
+DTSTART:20260127T000000Z
+SUMMARY:Facebook Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7476ae2e-aeee-4be3-a44a-00e17920fac8
+DTSTAMP:20260115T084558Z
+DTSTART:20260127T000000Z
+SUMMARY:Instagram Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4a5eed85-e529-4279-a260-ef8b3ccb416a
+DTSTAMP:20260115T084558Z
+DTSTART:20260127T000000Z
+SUMMARY:Paid Ads: Update/refresh Always-On Buy Ad creative (weekly)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Paid Ads\\nAsset: Update/refresh Always-On Buy Ad creative (weekly)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b6317bc8-7a9f-44bb-ba36-b16aac6be10c
+DTSTAMP:20260115T084558Z
+DTSTART:20260128T000000Z
+SUMMARY:Email Blast: Email #1: Event details + Buy focus
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Email Blast\\nAsset: Email #1: Event details + Buy focus\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1053fe1e-9860-47db-aa82-ed5aeec7183c
+DTSTAMP:20260115T084558Z
+DTSTART:20260128T000000Z
+SUMMARY:Facebook Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c22fcf2-4ea4-4fc1-8124-d54ee27c8264
+DTSTAMP:20260115T084558Z
+DTSTART:20260128T000000Z
+SUMMARY:Facebook Story: Countdown/preview story
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ec4f39e4-f65e-427c-9618-bf90cf83ebdf
+DTSTAMP:20260115T084558Z
+DTSTART:20260128T000000Z
+SUMMARY:Instagram Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:674c0a5c-a765-42fb-9fb2-ea3545780b34
+DTSTAMP:20260115T084558Z
+DTSTART:20260128T000000Z
+SUMMARY:Instagram Story: Countdown/preview story
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9877a6-f87a-48ff-8d40-00775b9164ab
+DTSTAMP:20260115T084558Z
+DTSTART:20260129T000000Z
+SUMMARY:Facebook Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4aa6f3f-14c0-44cc-ad7d-5aaea8e24c56
+DTSTAMP:20260115T084558Z
+DTSTART:20260129T000000Z
+SUMMARY:Instagram Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b24c9c8b-b8d4-4a26-86cc-84f7b2618ab6
+DTSTAMP:20260115T084558Z
+DTSTART:20260129T000000Z
+SUMMARY:Paid Ads: Launch Event Ad Flight (traffic/reach) – start
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Paid Ads\\nAsset: Launch Event Ad Flight (traffic/reach) – start\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc502064-6eda-4d62-b881-ed1bcf96be7b
+DTSTAMP:20260115T084558Z
+DTSTART:20260129T000000Z
+SUMMARY:Text Message: Text #2: Weekend reminder (Event starts soon)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Text Message\\nAsset: Text #2: Weekend reminder (Event starts soon)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Text Message
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14b0db60-d441-42e8-b836-f64ef651ecd0
+DTSTAMP:20260115T084558Z
+DTSTART:20260130T000000Z
+SUMMARY:Email Blast: Email #2: Weekend kickoff / New arrivals highlight
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Email Blast\\nAsset: Email #2: Weekend kickoff / New arrivals highlight\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:497b90fe-413b-48e3-b942-b778e3731cb9
+DTSTAMP:20260115T084558Z
+DTSTART:20260130T000000Z
+SUMMARY:Facebook Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:824a8381-e811-4443-89b4-4987d6549bba
+DTSTAMP:20260115T084558Z
+DTSTART:20260130T000000Z
+SUMMARY:Facebook Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c19ca7c8-556f-42da-9a2c-b4350bb9d71b
+DTSTAMP:20260115T084558Z
+DTSTART:20260130T000000Z
+SUMMARY:Instagram Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7f555656-91cd-4b04-bd9c-d6e15e52daae
+DTSTAMP:20260115T084558Z
+DTSTART:20260130T000000Z
+SUMMARY:Instagram Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd0ea6c-e7ab-4904-a2f2-43432e2a6842
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Facebook Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4af47e5e-9310-4c47-beb4-877b87eec151
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Facebook Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:632e1984-aad7-4a7c-91e2-658e8aece9d3
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Facebook Story: Last chance story (Final hours)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6557366e-632f-474f-a785-f8918c457369
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Facebook Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7e769006-5e4f-42d6-a358-491e58a2ecaf
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Instagram Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed6ab41-2567-405b-89f8-3b728d981ac4
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Instagram Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9cdd5b15-8067-438d-ad65-602324cd3d18
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Instagram Story: Last chance story (Final hours)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1475f5-3fe3-46df-a0f3-17eea5175630
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Instagram Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8eac419d-5c28-4a04-9f84-c3157bfd02c9
+DTSTAMP:20260115T084558Z
+DTSTART:20260131T000000Z
+SUMMARY:Paid Ads: Event Ad Flight – end
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Paid Ads\\nAsset: Event Ad Flight – end\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:52ef9b87-579c-4a7a-8783-262a93b279cb
+DTSTAMP:20260115T084558Z
+DTSTART:20260201T000000Z
+SUMMARY:Email Blast: Optional: Post-event thank you + buy call (only if needed)
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Email Blast\\nAsset: Optional: Post-event thank you + buy call (only if needed)\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:377a3952-e3b5-4ee4-9cb7-107136205c99
+DTSTAMP:20260115T084558Z
+DTSTART:20260201T000000Z
+SUMMARY:Facebook Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Facebook Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69e46e1c-b7af-4cce-bda8-4cf26621d4c8
+DTSTAMP:20260115T084558Z
+DTSTART:20260201T000000Z
+SUMMARY:Instagram Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: Western Reveal (Co-op)\\nType: Reveal\\nBuy Focus: Boots / Western Wear + Accessories\\nChannel: Instagram Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-01-31 to 2026-01-31
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c9a8311-16c9-4679-b9f4-30d8f397b562
+DTSTAMP:20260115T084558Z
+DTSTART:20260202T000000Z
+SUMMARY:Facebook Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93bca3ab-aea5-4ea8-8ef2-8da3bb755560
+DTSTAMP:20260115T084558Z
+DTSTART:20260202T000000Z
+SUMMARY:Facebook Story: Teaser story (Event preview)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:988d0d60-08af-49af-a103-835f5e2e2023
+DTSTAMP:20260115T084558Z
+DTSTART:20260202T000000Z
+SUMMARY:Instagram Feed Post: Teaser post (Event + Buy focus)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Feed Post\\nAsset: Teaser post (Event + Buy focus)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0040f3c1-9bc7-45a5-8cde-150de246608d
+DTSTAMP:20260115T084558Z
+DTSTART:20260202T000000Z
+SUMMARY:Instagram Story: Teaser story (Event preview)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Story\\nAsset: Teaser story (Event preview)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7657c098-5340-4ab3-bb53-ff2f87dc2345
+DTSTAMP:20260115T084558Z
+DTSTART:20260203T000000Z
+SUMMARY:Facebook Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10e770cf-3be1-4c9d-847c-8fc51beb0294
+DTSTAMP:20260115T084558Z
+DTSTART:20260203T000000Z
+SUMMARY:Instagram Feed Post: Buy focus post (We're buying)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Feed Post\\nAsset: Buy focus post (We're buying)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:335467f8-8aeb-4810-a77b-b579100f06ab
+DTSTAMP:20260115T084558Z
+DTSTART:20260203T000000Z
+SUMMARY:Paid Ads: Update/refresh Always-On Buy Ad creative (weekly)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Paid Ads\\nAsset: Update/refresh Always-On Buy Ad creative (weekly)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:40b22ba3-3cf0-4327-840a-90e07083ae84
+DTSTAMP:20260115T084558Z
+DTSTART:20260204T000000Z
+SUMMARY:Email Blast: Email #1: Event details + Buy focus
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Email Blast\\nAsset: Email #1: Event details + Buy focus\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e121e3a-2928-405f-9306-68b0a639da3b
+DTSTAMP:20260115T084558Z
+DTSTART:20260204T000000Z
+SUMMARY:Facebook Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:388cb952-d0ca-4aeb-83ab-72511b0b06b5
+DTSTAMP:20260115T084558Z
+DTSTART:20260204T000000Z
+SUMMARY:Facebook Story: Countdown/preview story
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:913f713a-be1d-4ce4-8b62-bd90421b2538
+DTSTAMP:20260115T084558Z
+DTSTART:20260204T000000Z
+SUMMARY:Instagram Feed Post: Event details post (What/When)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Feed Post\\nAsset: Event details post (What/When)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19b4c489-aeb6-41d0-a185-c65a2399f71b
+DTSTAMP:20260115T084558Z
+DTSTART:20260204T000000Z
+SUMMARY:Instagram Story: Countdown/preview story
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Story\\nAsset: Countdown/preview story\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7b41fc2-09ab-4de9-b7b8-6351a304df60
+DTSTAMP:20260115T084558Z
+DTSTART:20260205T000000Z
+SUMMARY:Facebook Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe2e4d12-a84b-45d6-ab88-11c9628ecbc0
+DTSTAMP:20260115T084558Z
+DTSTART:20260205T000000Z
+SUMMARY:Instagram Story: Reminder story + countdown sticker
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Story\\nAsset: Reminder story + countdown sticker\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f094c04-532c-4b4b-b4f8-0ec29e669695
+DTSTAMP:20260115T084558Z
+DTSTART:20260205T000000Z
+SUMMARY:Paid Ads: Launch Event Ad Flight (traffic/reach) – start
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Paid Ads\\nAsset: Launch Event Ad Flight (traffic/reach) – start\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b67b4204-99f0-436f-a822-d9a8918982fa
+DTSTAMP:20260115T084558Z
+DTSTART:20260205T000000Z
+SUMMARY:Text Message: Text #2: Weekend reminder (Event starts soon)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Text Message\\nAsset: Text #2: Weekend reminder (Event starts soon)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Text Message
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b8d3ed2b-b05d-4ce5-a34e-b7694876e4f3
+DTSTAMP:20260115T084558Z
+DTSTART:20260206T000000Z
+SUMMARY:Email Blast: Email #2: Weekend kickoff / New arrivals highlight
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Email Blast\\nAsset: Email #2: Weekend kickoff / New arrivals highlight\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5516cd2c-2193-41c4-a02a-f6d8bc2564c1
+DTSTAMP:20260115T084558Z
+DTSTART:20260206T000000Z
+SUMMARY:Facebook Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae82d710-e061-4f07-900e-73f73b3ebb47
+DTSTAMP:20260115T084558Z
+DTSTART:20260206T000000Z
+SUMMARY:Facebook Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:218d9d28-08bf-4633-9121-a57832fbbd00
+DTSTAMP:20260115T084558Z
+DTSTART:20260206T000000Z
+SUMMARY:Instagram Feed Post: Kickoff post (Weekend is here)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Feed Post\\nAsset: Kickoff post (Weekend is here)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc777cc-5e0f-4b4d-8f17-46b08c06338d
+DTSTAMP:20260115T084558Z
+DTSTART:20260206T000000Z
+SUMMARY:Instagram Story: Kickoff story (show products / buy counter)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Story\\nAsset: Kickoff story (show products / buy counter)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b75c74ea-1fa3-4f75-9cc6-c240c310c1ac
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Facebook Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7673ba-1cee-4fd6-a66e-61ca41fef504
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Facebook Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc23b2c6-e5d8-41c6-b016-280d009645db
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Facebook Story: Last chance story (Final hours)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e996cd8a-b849-4d87-949d-29cad986d2a6
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Facebook Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c8be7a84-2864-4b9b-a121-7f341263bda6
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Instagram Feed Post: Last chance post (Final day)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Feed Post\\nAsset: Last chance post (Final day)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3df86842-7bd1-4924-8e86-dc55d3203cd0
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Instagram Feed Post: Saturday push (Top picks / bundles)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Feed Post\\nAsset: Saturday push (Top picks / bundles)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc099a09-6832-438e-8c1a-a1cfb2d79532
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Instagram Story: Last chance story (Final hours)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Story\\nAsset: Last chance story (Final hours)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0eb507f9-8542-429c-80a5-1f58282f738a
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Instagram Story: Saturday story (live shopping + buy)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Story\\nAsset: Saturday story (live shopping + buy)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Story
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60ead1ff-cddf-4a22-a0a0-fb263185e7ef
+DTSTAMP:20260115T084558Z
+DTSTART:20260207T000000Z
+SUMMARY:Paid Ads: Event Ad Flight – end
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Paid Ads\\nAsset: Event Ad Flight – end\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Paid Ads
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:425a427f-0d86-4657-b791-6e6b1f5ab25a
+DTSTAMP:20260115T084558Z
+DTSTART:20260208T000000Z
+SUMMARY:Email Blast: Optional: Post-event thank you + buy call (only if needed)
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Email Blast\\nAsset: Optional: Post-event thank you + buy call (only if needed)\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Email Blast
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad392b06-bb4b-4db0-9fdf-235b2faedbe8
+DTSTAMP:20260115T084558Z
+DTSTART:20260208T000000Z
+SUMMARY:Facebook Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Facebook Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Facebook Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d1bc085-14e9-4f6f-961d-747001608d38
+DTSTAMP:20260115T084558Z
+DTSTART:20260208T000000Z
+SUMMARY:Instagram Feed Post: Recap/thank you + Next week buy call
+DESCRIPTION:Event: Valentine Mini-Reveal\\nType: Reveal\\nBuy Focus: Dresswear + Dress Shoes\\nChannel: Instagram Feed Post\\nAsset: Recap/thank you + Next week buy call\\n\\nEvent Period: 2026-02-07 to 2026-02-07
+CATEGORIES:OUAC Marketing,Reveal,Instagram Feed Post
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
