@@ -103,3 +103,6 @@ Icon
 
 # Windows
 $RECYCLE.BIN/
+
+# Cloned repositories for development/testing
+email-command-center/
